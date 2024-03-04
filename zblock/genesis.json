@@ -1,0 +1,12 @@
+{
+    "data": "2023-03-01",
+    "chain_id": 1,
+    "trans_per_block":10,
+    "difficulty": 6,
+    "mining_reward":700,
+    "gas_price":15,
+    "balances":{
+        "":100000,
+        "":100000
+    }
+}
